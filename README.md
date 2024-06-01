@@ -1,3 +1,6 @@
+v2.4.1
+
+
 # Hazel
 
 [![CircleCI](https://circleci.com/gh/vercel/hazel/tree/master.svg?style=svg)](https://circleci.com/gh/vercel/hazel/tree/master)
